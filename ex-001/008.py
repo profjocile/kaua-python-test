@@ -1,0 +1,1 @@
+#Faça um algoritmo para ler três números e imprimir se estes podem ou não formar um triângulo.Observação – Para formar os lados de um triângulo cada um dos valores tem que ser menor que a soma dos outros dois.
